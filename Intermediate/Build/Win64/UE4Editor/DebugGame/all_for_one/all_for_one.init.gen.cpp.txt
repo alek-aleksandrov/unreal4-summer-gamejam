@@ -1,0 +1,3 @@
+C:\Users\Alek\Documents\Unreal Projects\all_for_one\Intermediate\Build\Win64\UE4Editor\DebugGame\all_for_one\Definitions.all_for_one.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

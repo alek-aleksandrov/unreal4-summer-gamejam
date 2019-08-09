@@ -5,7 +5,7 @@
 ===========================================================================*/
 
 #include "UObject/GeneratedCppIncludes.h"
-#include "all_for_one/all_for_oneGameMode.h"
+#include "all_for_one/Public/World/all_for_oneGameMode.h"
 #ifdef _MSC_VER
 #pragma warning (push)
 #pragma warning (disable : 4883)
@@ -41,8 +41,8 @@ void EmptyLinkFunctionForGeneratedCodeall_for_oneGameMode() {}
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_Aall_for_oneGameMode_Statics::Class_MetaDataParams[] = {
 		{ "HideCategories", "Info Rendering MovementReplication Replication Actor Input Movement Collision Rendering Utilities|Transformation" },
-		{ "IncludePath", "all_for_oneGameMode.h" },
-		{ "ModuleRelativePath", "all_for_oneGameMode.h" },
+		{ "IncludePath", "World/all_for_oneGameMode.h" },
+		{ "ModuleRelativePath", "Public/World/all_for_oneGameMode.h" },
 		{ "ShowCategories", "Input|MouseInput Input|TouchInput" },
 	};
 #endif
@@ -73,7 +73,7 @@ void EmptyLinkFunctionForGeneratedCodeall_for_oneGameMode() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(Aall_for_oneGameMode, 1379815349);
+	IMPLEMENT_CLASS(Aall_for_oneGameMode, 1340651872);
 	template<> ALL_FOR_ONE_API UClass* StaticClass<Aall_for_oneGameMode>()
 	{
 		return Aall_for_oneGameMode::StaticClass();

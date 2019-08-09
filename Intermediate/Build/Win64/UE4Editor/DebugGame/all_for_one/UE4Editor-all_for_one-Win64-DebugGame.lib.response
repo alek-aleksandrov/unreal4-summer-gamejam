@@ -1,0 +1,20 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-all_for_one-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Alek\Documents\Unreal Projects\all_for_one\Intermediate\Build\Win64\all_for_oneEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.h.obj"
+"C:\Users\Alek\Documents\Unreal Projects\all_for_one\Intermediate\Build\Win64\UE4Editor\DebugGame\all_for_one\SkellyBoy.cpp.obj"
+"C:\Users\Alek\Documents\Unreal Projects\all_for_one\Intermediate\Build\Win64\UE4Editor\DebugGame\all_for_one\all_for_oneCharacter.cpp.obj"
+"C:\Users\Alek\Documents\Unreal Projects\all_for_one\Intermediate\Build\Win64\UE4Editor\DebugGame\all_for_one\all_for_oneGameMode.cpp.obj"
+"C:\Users\Alek\Documents\Unreal Projects\all_for_one\Intermediate\Build\Win64\UE4Editor\DebugGame\all_for_one\all_for_one.cpp.obj"
+"C:\Users\Alek\Documents\Unreal Projects\all_for_one\Intermediate\Build\Win64\UE4Editor\DebugGame\all_for_one\all_for_one.init.gen.cpp.obj"
+"C:\Users\Alek\Documents\Unreal Projects\all_for_one\Intermediate\Build\Win64\UE4Editor\DebugGame\all_for_one\all_for_oneCharacter.gen.cpp.obj"
+"C:\Users\Alek\Documents\Unreal Projects\all_for_one\Intermediate\Build\Win64\UE4Editor\DebugGame\all_for_one\all_for_oneGameMode.gen.cpp.obj"
+"C:\Users\Alek\Documents\Unreal Projects\all_for_one\Intermediate\Build\Win64\UE4Editor\DebugGame\all_for_one\SkellyBoy.gen.cpp.obj"
+"C:\Users\Alek\Documents\Unreal Projects\all_for_one\Intermediate\Build\Win64\UE4Editor\DebugGame\all_for_one\Default.rc2.res"
+/OUT:"C:\Users\Alek\Documents\Unreal Projects\all_for_one\Intermediate\Build\Win64\UE4Editor\DebugGame\all_for_one\UE4Editor-all_for_one-Win64-DebugGame.lib"
+/INCLUDE:IMPLEMENT_MODULE_all_for_one

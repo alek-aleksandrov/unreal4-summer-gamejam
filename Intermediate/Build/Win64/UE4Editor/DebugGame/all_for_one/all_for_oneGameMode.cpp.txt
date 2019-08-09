@@ -1,0 +1,13 @@
+C:\Users\Alek\Documents\Unreal Projects\all_for_one\Intermediate\Build\Win64\UE4Editor\DebugGame\all_for_one\Definitions.all_for_one.h
+C:\Users\Alek\Documents\Unreal Projects\all_for_one\Source\all_for_one\Public\World\all_for_oneGameMode.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\Alek\Documents\Unreal Projects\all_for_one\Intermediate\Build\Win64\UE4Editor\Inc\all_for_one\all_for_oneGameMode.generated.h
+C:\Users\Alek\Documents\Unreal Projects\all_for_one\Source\all_for_one\Public\Player\all_for_oneCharacter.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\Users\Alek\Documents\Unreal Projects\all_for_one\Intermediate\Build\Win64\UE4Editor\Inc\all_for_one\all_for_oneCharacter.generated.h

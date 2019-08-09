@@ -5,7 +5,7 @@
 ===========================================================================*/
 
 #include "UObject/GeneratedCppIncludes.h"
-#include "all_for_one/all_for_oneCharacter.h"
+#include "all_for_one/Public/Player/all_for_oneCharacter.h"
 #ifdef _MSC_VER
 #pragma warning (push)
 #pragma warning (disable : 4883)
@@ -52,8 +52,8 @@ void EmptyLinkFunctionForGeneratedCodeall_for_oneCharacter() {}
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_Aall_for_oneCharacter_Statics::Class_MetaDataParams[] = {
 		{ "HideCategories", "Navigation" },
-		{ "IncludePath", "all_for_oneCharacter.h" },
-		{ "ModuleRelativePath", "all_for_oneCharacter.h" },
+		{ "IncludePath", "Player/all_for_oneCharacter.h" },
+		{ "ModuleRelativePath", "Public/Player/all_for_oneCharacter.h" },
 	};
 #endif
 #if WITH_METADATA
@@ -61,7 +61,7 @@ void EmptyLinkFunctionForGeneratedCodeall_for_oneCharacter() {}
 		{ "AllowPrivateAccess", "true" },
 		{ "Category", "Camera" },
 		{ "EditInline", "true" },
-		{ "ModuleRelativePath", "all_for_oneCharacter.h" },
+		{ "ModuleRelativePath", "Public/Player/all_for_oneCharacter.h" },
 		{ "ToolTip", "Camera boom positioning the camera beside the character" },
 	};
 #endif
@@ -71,7 +71,7 @@ void EmptyLinkFunctionForGeneratedCodeall_for_oneCharacter() {}
 		{ "AllowPrivateAccess", "true" },
 		{ "Category", "Camera" },
 		{ "EditInline", "true" },
-		{ "ModuleRelativePath", "all_for_oneCharacter.h" },
+		{ "ModuleRelativePath", "Public/Player/all_for_oneCharacter.h" },
 		{ "ToolTip", "Side view camera" },
 	};
 #endif
@@ -107,7 +107,7 @@ void EmptyLinkFunctionForGeneratedCodeall_for_oneCharacter() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(Aall_for_oneCharacter, 2669453278);
+	IMPLEMENT_CLASS(Aall_for_oneCharacter, 3577126762);
 	template<> ALL_FOR_ONE_API UClass* StaticClass<Aall_for_oneCharacter>()
 	{
 		return Aall_for_oneCharacter::StaticClass();

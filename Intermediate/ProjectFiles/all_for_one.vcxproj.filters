@@ -41,17 +41,5 @@
     <ClInclude Include="..\..\Source\all_for_one\all_for_one.h">
       <Filter>Source\all_for_one</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\Source\all_for_one\all_for_oneCharacter.cpp">
-      <Filter>Source\all_for_one</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\all_for_one\all_for_oneCharacter.h">
-      <Filter>Source\all_for_one</Filter>
-    </ClInclude>
-    <ClCompile Include="..\..\Source\all_for_one\all_for_oneGameMode.cpp">
-      <Filter>Source\all_for_one</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\all_for_one\all_for_oneGameMode.h">
-      <Filter>Source\all_for_one</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>
