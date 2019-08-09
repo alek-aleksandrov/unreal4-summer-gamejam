@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\all_for_one.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{3B33C622-1A26-44FA-8BEE-58760F10FD2E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\all_for_one.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\all_for_oneEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{24F43261-821C-4A08-B661-531317682022}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\all_for_one">
+      <UniqueIdentifier>{F6643BC5-C95C-4B76-B765-CB2BEC42F2EE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\all_for_one\all_for_one.Build.cs">
+      <Filter>Source\all_for_one</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\all_for_one\all_for_one.cpp">
+      <Filter>Source\all_for_one</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\all_for_one\all_for_one.h">
+      <Filter>Source\all_for_one</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\all_for_one\all_for_oneCharacter.cpp">
+      <Filter>Source\all_for_one</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\all_for_one\all_for_oneCharacter.h">
+      <Filter>Source\all_for_one</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\all_for_one\all_for_oneGameMode.cpp">
+      <Filter>Source\all_for_one</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\all_for_one\all_for_oneGameMode.h">
+      <Filter>Source\all_for_one</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

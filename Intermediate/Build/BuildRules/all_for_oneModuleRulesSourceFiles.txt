@@ -1,0 +1,3 @@
+C:\Users\Alek\Documents\Unreal Projects\all_for_one\Source\all_for_one\all_for_one.Build.cs
+C:\Users\Alek\Documents\Unreal Projects\all_for_one\Source\all_for_one.Target.cs
+C:\Users\Alek\Documents\Unreal Projects\all_for_one\Source\all_for_oneEditor.Target.cs

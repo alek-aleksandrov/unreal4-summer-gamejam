@@ -1,0 +1,2 @@
+C:\Users\Alek\Documents\Unreal Projects\all_for_one\Intermediate\Build\Win64\UE4Editor\Development\all_for_one\Definitions.all_for_one.h
+C:\Users\Alek\Documents\Unreal Projects\all_for_one\Source\all_for_one\all_for_one.h
